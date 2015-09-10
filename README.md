@@ -5,9 +5,11 @@ This is where I am storing my work for the problems posed on the subreddit /r/Da
 
 Many are written in Python 2.7.8 and the filenames stand for "Daily Programmer Easy/Intermediate/Hard" follow by the project number.'\n'
 
-Thus  DPE215.py would be Easy challenge #215
+Thus
 
-      DPI215.py would be Intermediate challenge #215
+DPE215.py would be Easy challenge #215
+
+DPI215.py would be Intermediate challenge #215
       
-      DPH215.py would be Hard challenge #215
+DPH215.py would be Hard challenge #215
       
