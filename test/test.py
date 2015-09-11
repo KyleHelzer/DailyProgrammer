@@ -1,2 +1,19 @@
 #test file for learning how to use git
 #test edit 2
+
+#how to add changes with git
+
+#good tutorial at https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+> git init #in working repository
+
+> git add . #adds files in new local repository and stages them for commit
+
+> git commit -m 'Commit Message' #-m is the flas for message and is used for commit messages
+								 #commits tracked changes and prepares them to be pushed to a remote location
+> git remote add foobar https://github.com/KyleHelzer/repositoryName.git #dont forget the .git at the end
+
+> git remote -v # -v is verbose. shows name of remote and associated URL
+
+> get push foobar master #pushed the changes in your local repository up to the remote repository
+						 #specified as foobar
